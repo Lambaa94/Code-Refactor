@@ -12,6 +12,11 @@ HTML CHANGES:
 
 CSS CHANGES:
 
-1: changed the three benifit id's to benefit-title for he class
-2: changed the three h3 to benefit-title h3
-3: 
+1: changed the three benefit id's to benefit-title for the class -> then changed the classes in HTML
+2: changed the three h3 to benefit-title h3 -> then changed the classes in HTML
+3: changed the three img to benefit-title img -> then changed the classes in HTML
+4: moved the main three <sections> above the <aside> right below .hero and all those directions.
+5: Changed the <section> <h2> to .article-title -> then changed the classes in HTML
+6: changed ID's to article-title //is that correct?
+7: changed all of the img - article-title
+8: changed all of the h2 - article-title

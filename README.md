@@ -11,12 +11,16 @@ HTML CHANGES:
 8: added <article> and <section> tags instead of <div> 
 
 CSS CHANGES:
+//is 6: correct?
+//is span being used correctly?
+//do you gave to have the float-left and right classes?
 
 1: changed the three benefit id's to benefit-title for the class -> then changed the classes in HTML
 2: changed the three h3 to benefit-title h3 -> then changed the classes in HTML
 3: changed the three img to benefit-title img -> then changed the classes in HTML
 4: moved the main three <sections> above the <aside> right below .hero and all those directions.
 5: Changed the <section> <h2> to .article-title -> then changed the classes in HTML
-6: changed ID's to article-title //is that correct?
+6: added an ID tag to the first article 
 7: changed all of the img - article-title
 8: changed all of the h2 - article-title
+9: changed the header div tag to header nav

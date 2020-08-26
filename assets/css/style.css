@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* The main picture that takes up the top of the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +58,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* do you have to have this class? */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* do you have to have this class? */
+
 .float-right {
     float: right;
     margin-left: 25px;

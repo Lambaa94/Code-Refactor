@@ -8,7 +8,7 @@
 
 ### html
  
- I started out changing all generic`<div>` tags to tags that made more sense for me. I added alt= to all img tags to give a description to what the image was. I also changed the tags that incased the copyright from `<p>` to `<small>` as I thought that would be more appropriate. I fixed a navigation link that wasn't working do to an absent id tag. I also created a logo for the title.
+ I started out changing all generic`<div>` tags to tags that made more sense for me. I added alt= to all img tags to give a description to what the image was. I fixed a navigation link that wasn't working do to an absent id tag. I also created a logo for the title.
 
 ### css
  
